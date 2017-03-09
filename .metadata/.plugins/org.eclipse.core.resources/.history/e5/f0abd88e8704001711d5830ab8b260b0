@@ -1,0 +1,14 @@
+package sleepInTest;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class SleepInTest {
+
+	@Test
+	public void testSleepIn() {
+		fail("Not yet implemented");
+	}
+
+}
