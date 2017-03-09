@@ -1,4 +1,3 @@
 INDEX VERSION 1.129+C:\Users\zzzz8365\Documents\GitHub\CodingBat\.metadata\.plugins\org.eclipse.jdt.core
-2380175872.index
 3610546577.index
 1591830111.index
