@@ -1,0 +1,14 @@
+package sumDouble;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class SumDoubleTest {
+
+	@Test
+	public void testSumDouble() {
+		fail("Not yet implemented");
+	}
+
+}

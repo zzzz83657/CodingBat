@@ -1,0 +1,16 @@
+package sleepInTest;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import sleepIn.SleepIn;
+
+public class SleepInTest {
+
+	@Test
+	public void testSleepIn() {
+		assertTrue(new SleepIn().sleepIn(true, true));
+	}
+
+}
